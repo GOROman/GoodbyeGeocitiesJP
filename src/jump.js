@@ -20,7 +20,7 @@ if(redirectUrl.length)
         setInterval(function () {
             var url = "https://web.archive.org/web"+location.href;
 
-            errorTtlTxt[0].textContent = 'Web Achiveに自動で飛ぶぜ！！';
+            errorTtlTxt[0].textContent = 'Web Archiveに自動で飛ぶぜ！！';
             var errorInfoTxt = document.getElementsByClassName('errorInfoTxt');
             if (errorInfoTxt) {
                 errorInfoTxt[0].textContent = url;
