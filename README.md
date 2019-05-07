@@ -1,11 +1,9 @@
-# Goodbye Geocities JP
-Geocities JP to Web Archive(archive.org) Auto Redirector for Chrome extension.
 
-## はじめに
+#「諸君らが愛してくれたYahoo!ジオシティーズは死んだ！何故だ！」
 
-「諸君らが愛してくれたYahoo!ジオシティーズは死んだ！何故だ！」
+## Goodbye Geocities JP
 
-## これは何？
+### これは何？
 
 Chrome拡張です。
 Yahoo!ジオシティーズ が閉鎖されてしまったので、以下のURLの場合は archive.org へ飛ぶようにします。あらかじめリダイレクト先がある場合はそちらを優先して飛びます。
@@ -15,14 +13,14 @@ Yahoo!ジオシティーズ が閉鎖されてしまったので、以下のURL�
 - "https://www.geocities.jp/*"
 - "https://www.geocities.co.jp/*"
 
-## インストールのしかた
+### インストールのしかた
 
 Chromeウェブストアに申請中です。（通るのかは謎）
 
-## インストールのしかた プロ
+### インストールのしかた (プロ向け)
 
 chrome://extensions/ にてChromeをデベロッパーモードにして「パッケージ化されていない拡張機能を読み込む」ボタンでsrcフォルダを追加してください。
 
-## 免責事項
+### 免責事項
 
 トラブルなど関与しません。
