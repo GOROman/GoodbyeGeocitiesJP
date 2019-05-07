@@ -1,0 +1,21 @@
+    
+{
+  "name": "Goodbye geocities.jp",
+  "short_name": "Goodbye geocities.jp",
+  "description": "geocities.jp へのアクセスを archive.org へリダイレクトします",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": [
+        "http://www.geocities.jp/*",
+        "http://www.geocities.co.jp/*",
+        "https://www.geocities.jp/*",
+        "https://www.geocities.co.jp/*"
+      ],
+      "js": [
+        "jump.js"
+      ]
+    }
+  ]
+}
