@@ -15,11 +15,8 @@ Yahoo!ジオシティーズ が閉鎖されてしまったので、以下のURL�
 
 ### インストールのしかた
 
-Chromeウェブストアに申請中です。（通るのかは謎）
-
-### インストールのしかた (プロ向け)
-
-chrome://extensions/ にてChromeをデベロッパーモードにして「パッケージ化されていない拡張機能を読み込む」ボタンでsrcフォルダを追加してください。
+Chromeウェブストアからインストール可能です。
+https://chrome.google.com/webstore/detail/goodbye-geocitiesjp/lemfgphjhikbbadomlciomdgchbmaldp
 
 ### 免責事項
 
