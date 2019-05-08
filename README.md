@@ -16,6 +16,7 @@ Yahoo!ジオシティーズ が閉鎖されてしまったので、以下のURL�
 ### インストールのしかた
 
 Chromeウェブストアからインストール可能です。
+
 https://chrome.google.com/webstore/detail/goodbye-geocitiesjp/lemfgphjhikbbadomlciomdgchbmaldp
 
 ### 免責事項
