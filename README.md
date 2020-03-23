@@ -3,6 +3,8 @@
 
 ## Goodbye Geocities JP
 
+[![Omikuji](https://omikuji.net/badge.svg?v=1&n=21abc52f)](https://omikuji.net/)
+
 ### これは何？
 
 Chrome拡張です。
